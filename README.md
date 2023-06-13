@@ -1,2 +1,4 @@
 # block21-car-factory
-Fullstack Academy Unit 2 Workshop: Car Factory
+Fullstack Academy<br>
+Unit 2 Block 21: ES6 Classes and the Prototype Chain<br>
+Workshop: Car Factory
